@@ -60,7 +60,7 @@
   /*===header start===*/
   .header-sec{
 	  font-family: 'Raleway', sans-serif;
-	  padding:150px 0;
+	  padding:200px 0;
 	  background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url("images/hero-bg.jpg");
 	  background-size:cover;
 	  background-position:center;
@@ -293,7 +293,7 @@
   }
    .service-items p{
 	   margin-top:20px;
-	    font-size:14px;
+	    font-size:13px;
 		line-height:25px;
    }
   .service-content a{
@@ -382,7 +382,7 @@
 	  width:75px;
 	  height:75px;
 	  border-radius:10px;
-	  padding-right:15px;
+	  margin-right:15px;
   }
   
   .card-content h3{
