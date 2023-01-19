@@ -30,18 +30,7 @@
   .form-controal1{
 		width:98%;
   }
-  /*===base sec===*/
-  .base1 h6::after{
-    position: absolute;
-    content: "";
-    width: 30px;
-    border: 1px solid  #dc3545;
-    left: 5%;
-   bottom:0;
-    transform: translateX(-50%);
-	margin-top:5px;
-	
-	  }
+ 
   /*===footer-sec===*/
    .finish-2 i{
 	   margin-top:5px;
