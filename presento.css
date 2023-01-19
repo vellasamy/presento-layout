@@ -538,7 +538,7 @@
 	 position: absolute;
     content: "";
     width: 60px;
-    border: 2px solid red;
+    border-top: 3px solid #dc3545;
     left: 50%;
     top: 80px;
     transform: translateX(-50%);
@@ -719,12 +719,12 @@
 	 }
 	  .base1 h6::after{
     position: absolute;
+	display:block;
     content: "";
     width: 30px;
-    border: 1px solid  #dc3545;
-    left: 10%;
+    border-top: 2px solid  #dc3545;
+    left: 0;
    bottom:0;
-    transform: translateX(-50%);
 	margin-top:5px;
 	
 	  }
